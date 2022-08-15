@@ -1,4 +1,4 @@
-### Bem vindos!! eu sou o Jonathan 
+### Bem vindos!! eu sou o Jonathan.
 
 - 🔭 Hoje trabalho como comprador
 - 🌱 Estudando Front-end, Back-end e análise de dados
