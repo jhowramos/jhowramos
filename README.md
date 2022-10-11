@@ -4,7 +4,7 @@
 ##
 </div>
 
-- 🔭 Hoje trabalho como comprador
+- 🔭 Atualmente trabalho como comprador
 - 🌱 Estudando Front-end e Back-end.
 - 📫 Contate-me no e-mail: ramosjonatan7@hotmail.com
 - 😄 Pronouns: ele/dele 
